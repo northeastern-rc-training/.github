@@ -1,4 +1,4 @@
-# Northeastern University Research Computing Training Material Github
+# Northeastern University Research Computing Training Github
 
 <!--
 
